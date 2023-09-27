@@ -19,8 +19,7 @@ The reverse works as well! If you type '!code Belted Kingfisher' the bot will re
 
 
 
-
+### Support
 🐦 If you have enjoyed using the Alpha Code Search Bot, consider donating to help cover hosting fees!
-
   https://www.buymeacoffee.com/alphacodesearchbot 
 
