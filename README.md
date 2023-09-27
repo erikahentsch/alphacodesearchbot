@@ -14,7 +14,7 @@ https://discord.com/api/oauth2/authorize?client_id=786342936496570410&permission
 To use the Alpha Code Search bot, type ```/code``` followed by either the species name or 4-letter alpha code. 
 If the 4-letter code exists, or the bot can find the species by name (spelling counts!) the bot will respond with a species record that includes the species common name, scientific name and alpha code. 
 For example: If you wanted to find out what the Alpha Code BEKI corresponds to, type ```/code BEKI``` and the bot will respond with a the species that matches the code.
-The reverse works as well! If you type '!code Belted Kingfisher' the bot will respond with the same message.
+The reverse works as well! If you type ```!code Belted Kingfisher``` the bot will respond with the same message.
 
 
 
